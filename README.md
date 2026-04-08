@@ -1,2 +1,2 @@
-# dsp-lyons
-My code for ''Understanding Digital Signal Processing'' by Richard Lyons
+# taiji-lang
+CLI quiz game for Learning Chinese
